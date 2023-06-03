@@ -11,5 +11,6 @@ Profitez bien de ce script,vous pouvez le republier ou l'utiliser, gardez juste 
 FiveM
 Standalone
 Esx
+qbcore
 GTA
 RP
